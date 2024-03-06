@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
     </a>
-    <a href="https://www.instagram.com/tihonovgena">
+    <a href="https://www.instagram.com/genatihonov">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </div>
