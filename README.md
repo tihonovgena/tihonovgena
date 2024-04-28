@@ -38,11 +38,10 @@
 *   Multiplayer
 *   Playfab
 *   GameAnalytics
-*   Maya
 
 ### My opensource projects
 
-*   [Project A](https://github.com/tihonovgena/ProjectA) - A simple project that can tell you about my programming skills..
+*   [ShootAndUp](https://github.com/tihonovgena/ShootAndUp) - A simple project that can tell you about my programming skills..
 
 
 <!--
