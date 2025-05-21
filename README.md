@@ -1,9 +1,6 @@
 <div>
   <h1 align='center'>Tikhonov Gennadii</h1>
   <h3 align='center'>Gamedeveloper</h3>
-  <p align='center'>
-    Read more about me: <a href='https://www.tikhonov22.com/'>Tikhonov Gennadii</a>
-  </p>
 </div>
 
 <div id="socials" align="center">
@@ -27,6 +24,7 @@
 </p>
 
 ###  Experience
+*   Currently employed in Frozen Lake Studio as a Senior Unreal Engine Developer
 *   Worked as a game developer at [NibleBladeStudio](https://www.youtube.com/@nimbleblade4564) for more than 3 years
 *   Created from scratch and developed [Casual Blade](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=ru&gl=US)
 *   Provided freelance services in the field of game development and modeling for 2 years
@@ -38,10 +36,6 @@
 *   Multiplayer
 *   Playfab
 *   GameAnalytics
-
-### My opensource projects
-
-*   [ShootAndUp](https://github.com/tihonovgena/ShootAndUp) - A simple project that can tell you about my programming skills..
 
 
 <!--
