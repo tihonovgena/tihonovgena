@@ -10,14 +10,6 @@
   <a href="https://t.me/tihonovgena">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-    <a href="https://www.instagram.com/fivetris">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-    </a>
-    <a href="https://www.instagram.com/tikhonovgena22">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-</div>
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:tihonovgena22@gmail.com'>tihonovgena22@gmail.com</a>
