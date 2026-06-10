@@ -1,64 +1,78 @@
-<h1 align="center">Tikhonov Gennadii</h1>
-<h3 align="center">Gamedeveloper</h3>
+<h1 align="center">Gennadii Tikhonov</h1>
+<h3 align="center">Unreal Engine Gameplay Programmer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tihonovgena-gamedeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/tihonovgena">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="mailto:tihonovgena22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-<p align="center">
-   📫 Reach me at: <a href="mailto:tihonovgena22@gmail.com">tihonovgena22@gmail.com</a>
-</p>
-
 ---
 
-## 👨‍💻 Summary
-Senior Unreal Engine Gameplay Programmer with 6+ years of experience building scalable gameplay systems in C++. Experienced in multiplayer systems, GAS, AI, and performance optimization. Contributed to shipped PC and VR titles and developed reusable Unreal Engine plugins.
+## 👨‍💻 About Me
+
+I’m a game developer with 6+ years of experience who cares not only about writing solid code, but about building the right solutions for the business.
+
+I try to look beyond the backlog and understand what will bring the most value to the product, the team, and the company.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming:** C++ (C++17/20), C (basic), SQL, Python (tools & automation)  
-**Engine & Stack:** Unreal Engine 4/5, Gameplay Ability System (GAS), MVVM, UMG, Animation Systems, Sequencer, Unreal Insights  
-**Skills:** Systems architecture, Multiplayer / Networking, AI (Behavior Trees, EQS), Optimization / Profiling, Unreal Engine framework, Collaboration with designers, Gameplay Tag, Instanced Struct  
+**Programming:** C++ (modern), Blueprints, Python
 
----
+**Stack:** Unreal Engine 4/5, Gameplay Ability System, MVVM, UMG, Sequencer, CommonUI, Unreal Insights, Gameplay Framework
 
-## 📦 Released Plugins
+**Core Skills:** Profiling, Optimization, Systems Architecture, Multiplayer / Networking, Replication, System Design
 
-- **Player Action Binder** (Sept 2024) – Published on Unreal Fab  
-  Implemented actor components that eliminate the need to write bindings directly in C++ code or Blueprint, saving time on project prototyping.  
-
-- **Planting System** (Aug 2025) – Published on Unreal Fab  
-  Developed a modular planting system plugin to add growing plants to any game.
+**Tools & Workflows:** Git, Jira, PlasticSCM, Confluence, Agile
 
 ---
 
 ## 💼 Experience
 
-### **Frozen Lake Studios + Rhea Games** – Remote  
-**Senior Unreal Engine Developer** | Jun 2024 – Mar 2026  
-- Designed scalable systems and gameplay mechanics with replication support.  
-- Built MVP of *Cat Craft* project with 10 core game systems and 3 mechanics (Cat crafting, Gardening, Traveling).  
-- Refactored and optimized third-party code into a modular framework, increasing FPS from 45 → 80+.  
-- Created build system (Async-loaded DataAssets for 1000+ assets) and educational scenario system.  
-- Shipped 3 cross-platform (PC, VR) commercial projects with technical documentation.  
-- Mentored team on technology evaluation, planning, and code reviews.
+### Frozen Lake Studios + Rhea Games — Remote
 
-### **Nimble Blade Studio doo** – Remote  
-**General Unreal Engine Developer** | Dec 2020 – Mar 2024  
-- Implemented core gameplay mechanics for *Casual Blade* with multiplayer, including custom animation system & sword physics.  
-- Developed 4 large-scale gameplay systems: progression & ranking, in-game economy, mission management, and robot wear/repair logic.  
-- Scripted mission flows with cinematic cutscenes and dialogue integration.
+**Senior Unreal Engine Developer**
+**Jun 2024 – Mar 2026**
 
-### **Space Hunt Project** – Remote  
-**Gameplay Unreal Engine Developer** | May 2019 – Sept 2020  
-- Built gameplay features: inventory, resource gathering, mining effects, UI, and character animations.  
-- Developed combat mechanics (shooting) and jetpack flight system with synchronized VFX/animations.
+* Developed PC multiplayer projects with dedicated server architecture and VR educational projects, including rapid MVP development for *Cat Craft*.
+* Designed and implemented modular gameplay systems using a data-driven architecture.
+* Refactored legacy Blueprint-heavy systems into modular C++ gameplay components, improving maintainability and reducing runtime overhead, resulting in up to ~20% FPS improvement in gameplay-heavy scenarios.
+* Optimized replication relevancy and RPC usage in open-world multiplayer sessions, reducing bandwidth usage by approximately 12%.
+* Developed internal tooling and editor utilities to streamline designer workflows and accelerate content iteration.
+* Investigated and resolved gameplay crashes, replication issues, and runtime performance bottlenecks during production development.
+
+**Project:** [Cat Craft](https://rhea.games/cat-craft/)
+
+---
+
+### Nimble Blade Studio doo — Remote
+
+**Gameplay Unreal Engine Developer**
+**Dec 2020 – Mar 2024**
+
+* Worked on a multiplayer fencing action game featuring PvP and PvE sessions on dedicated and listener servers.
+* Implemented gameplay mechanics with server-authoritative replication and client-side prediction.
+* Supported post-launch development, including live feature updates, gameplay balancing, bug fixing, and A/B feature testing.
+
+**Project:** [Casual Blade](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade)
+
+---
+
+## 🧩 Selected Independent Project
+
+### Lost Signal — Independent Game Project
+
+**Independent Unreal Engine Developer**
+**Feb 2026 – Present**
+
+* Developing a 4-player co-op prototype using Gameplay Ability System, CommonUI, and server-authoritative multiplayer architecture.
+* Implementing network prediction, physics replication, and replicated gameplay systems for responsive multiplayer interactions.
+
+**Portfolio Case Study:** [DevLog_LostSignal](https://github.com/tihonovgena/Technical_Portfolio)
 
 ---
