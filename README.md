@@ -73,6 +73,6 @@ I try to look beyond the backlog and understand what will bring the most value t
 * Developing a 4-player co-op prototype using Gameplay Ability System, CommonUI, and server-authoritative multiplayer architecture.
 * Implementing network prediction, physics replication, and replicated gameplay systems for responsive multiplayer interactions.
 
-**Portfolio Case Study:** [DevLog_LostSignal](https://github.com/tihonovgena/Technical_Portfolio)
+**Portfolio Case Study:** [Technical_Portfolio](https://github.com/tihonovgena/Technical_Portfolio)
 
 ---
